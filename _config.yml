@@ -12,11 +12,6 @@ author: Sying
 language: en
 date_format: '%Y-%m-%d'
 
-# Sidebar settings
-sidebar: true                           # 是否开启侧边栏.
-sidebar-about-description: "学而不思则罔,思而不学则殆"
-sidebar-avatar:/img/0.jpg     # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
-
 
 
 # URL
