@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: You Blog
 subtitle:
 description:
-author: John Doe
+author: Sying
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -234,6 +234,11 @@ social_icons:
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
 #avatar:
+
+# Sidebar settings
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "说点装逼的话。。。"
+sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
 
 # Table Of Contents in the Sidebar
