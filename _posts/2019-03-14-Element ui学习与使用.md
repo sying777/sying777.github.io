@@ -57,7 +57,8 @@ new Vue({
 
 * <el-form-item>标签属性
   * prop :这里的值必须和rules里的一致
-  * ![01003d76092c354899b8eb6fa293a7df](assets/01003d76092c354899b8eb6fa293a7df.png)
+
+    
 
 ## 遇坑点
 
